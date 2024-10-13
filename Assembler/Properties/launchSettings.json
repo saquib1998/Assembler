@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assembler": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Saquib\\source\\repos\\Assembler\\TestFiles\\Pong.asm"
+    }
+  }
+}
